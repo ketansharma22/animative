@@ -1,0 +1,11 @@
+*{
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+    /* background-color: #151527; */
+}
+@font-face{
+    font-family:Rubic ;
+    src: url('../public/fonts/Rubik-Black.woff') format('woff'),
+    url('../public/fonts/Rubik-Black.woff2') format('woff2 ');
+}
