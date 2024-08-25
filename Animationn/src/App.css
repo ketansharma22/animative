@@ -1,3 +1,10 @@
 *{
     overflow-x: hidden;
 }
+html,body,#root{
+    width: 100%;
+    height: 200%;
+}
+#root{
+    background-color: black;    
+}
