@@ -8,3 +8,12 @@ html,body,#root{
 #root{
     background-color: black;    
 }
+
+#group{
+   background-image: url('./components/back.png');
+   
+   background-repeat: no-repeat;
+   background-size:cover;
+   
+}
+
